@@ -66,11 +66,7 @@ flutter run
 
 ## 🖼️ Screenshots
 
-
-
-```markdown
-![Home Page](assets/images/screenshot1.png)
-```
+[![Screenshot-2025-07-23-122422.png](https://i.postimg.cc/FRFFV69j/Screenshot-2025-07-23-122422.png)](https://postimg.cc/3y6HKn0R)
 
 ---
 
