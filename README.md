@@ -46,7 +46,7 @@ DISCOVER_APP/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hyoketsuSenpai/discover_app.git
+git clone https://github.com/HyoketsuSenpai/discover_app.git
 cd discover_app
 ```
 
